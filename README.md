@@ -11,6 +11,9 @@ Project to understand Lambda functions using Node js
 
 ![image](https://github.com/leoimewore/lambdafunctionProject/assets/95531716/049f5399-edb6-4f5b-ae05-7b180f25ee9e)
 
+<img width="810" alt="image" src="https://github.com/leoimewore/lambdafunctionProject/assets/95531716/758dd11c-c6fd-460f-b8af-6b45b865f6d6">
+
+
 
 ## Learnings
 
