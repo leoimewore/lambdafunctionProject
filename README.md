@@ -6,6 +6,7 @@ Project to understand Lambda functions using Node js
 2) Make use of AWS SDK for node.js scripting language to develop a lambda function
 3) Implement an API GATEWAY to provide the middleware for Rest api request and response
 4) Notify users that EC2 instance is on or off with SNS
+5) Develop this infrastructure with Terraform
 
 ## AWS Cloud Diagram
 
@@ -20,4 +21,6 @@ Project to understand Lambda functions using Node js
 1) Making use of AWS SDK documentation to develop ES6 node js code  for the Lambda function
 2) Developing topics and subscriptions for SNS email notifications
 3) Understanding the critical differences between asynchronous and synchronous Invocation
+4) Understand the difference between proxy and non-proxy lambda-Api-gateway integration
+5) Understand how to peruse Terraform documentation
 
